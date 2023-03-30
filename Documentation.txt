@@ -1,0 +1,17 @@
+NoSql Python Fast Api Documentation
+
+To check the API simply install Python and install some usefull
+libraries of python as sqlite3 , Fastapi and uvicorn
+
+after installing that libraries . Then open command pallete in that folder
+and run the following command
+
+"uvicorn filename(without Extension):app --reload"
+
+then the generated api entered in the browser you see the api reaction.
+
+to see database work go to 
+
+https://127.0.0.1:8000/docs
+
+then get and post methods are there to test
